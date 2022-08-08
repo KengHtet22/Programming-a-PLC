@@ -1,4 +1,4 @@
-# Controlling Pneumatic Motors
+# Programming a PLC
 
 Semestral project from Programmable Controller Applications course
 
